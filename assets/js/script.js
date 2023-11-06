@@ -1,0 +1,43 @@
+$(document).ready(function(){
+    $('#education').slick(
+        {
+            dots:false,
+            infinite: true,
+            speed: 600,
+            slidesToShow: 1,
+            arrows:true,
+           
+          }
+    );
+  });
+
+  $(document).ready(function(){
+    $('#students').slick(
+        {
+            dots:true,
+            infinite: true,
+            speed: 600,
+            slidesToShow: 1,
+            arrows:false,
+           
+          }
+    );
+  });
+
+  $(document).ready(function(){
+    $(window).scroll(function () {
+        if ($(this).scrollTop() > 50) {
+          $('#back-to-top').fadeIn();
+        } else {
+          $('#back-to-top').fadeOut();
+        }
+      });
+  
+      // scroll body to 0px on click
+      $('#back-to-top').click(function () {
+        $('body,html').animate({
+          scrollTop: 0
+        }, 400);
+        return false;
+      });
+  });

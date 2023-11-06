@@ -1,0 +1,340 @@
+
+@media only screen and (min-width : 0px) and (max-width : 1440px) {
+    #back-to-top{
+        bottom: 103px;
+        right: 114px;
+    }
+}
+@media only screen and (min-width : 0px) and (max-width : 1280px) {
+    #back-to-top{
+        bottom: 103px;
+    }
+    .banner .banner_content {
+        position: absolute;
+        left: 123px;
+        bottom: 58px;
+    }
+    .banner .slick-prev {
+      
+        top: 164px;
+      
+    }
+}
+
+@media only screen and (min-width : 0px) and (max-width : 1024px) {
+    .notification marquee {
+        margin: 10px 86px;
+      
+    }
+    .heading .head, .contact{
+        margin: 12px 60px;
+    }
+    .heading nav ul{
+        margin: 0px 60px;
+    }
+    .banner .banner_content{
+        left: 89px;
+    bottom: 54px;
+    }
+    .banner .banner_content h3{
+        font-size: 5.7rem;
+    }
+    .banner .slick-prev{
+        top: 157px;
+        left: 10px;
+    }
+
+    .banner .slick-next{
+        bottom: 149px;
+    }
+    .banner .sticky{
+        bottom: 166px;
+    }
+    .links {
+        margin: 62px 60px;
+    }
+    .why_choose .options{
+        padding: 70px 60px;
+    }
+    .why_choose div {
+        margin: 0px 7px;
+    }
+    #students{
+        margin: 0px 60px;
+    }
+    footer .footer_body{
+        margin: 0px 60px;
+    }
+    #back-to-top{
+        right: 60px;
+    }
+}
+@media only screen and (min-width : 0px) and (max-width : 768px) {
+    .notification marquee {
+        margin: 10px 46px;
+       
+    }
+    .heading .head, .contact {
+        margin: 12px 21px;
+    }
+    .heading nav ul li {
+        padding: 14px 10px;
+      
+    }
+    .heading .head .contact .email {
+        margin: 0 35px 0 0;
+    }
+    .banner .banner_content h3 {
+        font-size: 3.7rem;
+    }
+    .banner .banner_content p {
+        font-size: 1rem;
+       
+    }
+    .banner .slick-prev {
+        top: 117px;
+      
+    }
+    .banner .slick-next {
+        bottom: 109px;
+    }
+    
+    .banner .sticky {
+        bottom: 122px;
+    }    
+    .students_say .item .female_student, .guy_student {
+     
+        padding: 10px 78px;
+      
+    }
+    footer .subscribe {
+        margin: 34px 0px 0px 0px;
+    }
+    #back-to-top{
+
+        right: 68px;
+    }
+}
+@media only screen and (min-width : 0px) and (max-width : 360px) {
+    .notification marquee {
+       
+        font-size: 1rem;
+       
+    }
+ 
+
+    .heading .head .logo {
+        margin: 0px -71px 0px 0px;
+    }
+    .heading .head .logo img {
+        max-width: 60%;
+    }
+    .heading .head, .contact {
+        margin: 7px 13px;
+    }
+    .heading .head .contact .email {
+        margin: 0 24px 0 0;
+    }
+    .heading .head .contact .phone {
+        margin: 0px 2px 0px 0px;
+    }
+    .heading nav ul {
+        margin: 0px 0px;
+    }
+  
+    .heading nav ul li {
+        padding: 14px 12px;
+    }
+        .heading nav ul li a {
+         
+            font-size: 1rem;
+          
+        }
+      
+        .heading .head .contact p {
+    
+            font-size: 1rem;
+          
+        }
+        .heading .head .contact h3 {
+       
+            font-size: 1rem;
+         
+        }
+    .banner .banner_content {
+        left: 42px;
+        bottom: 27px;
+    }
+
+    .banner .banner_content h3 {
+        font-size: 1.7rem;
+    }
+    .banner .banner_content p {
+        font-size: 0.5rem;
+    }
+    .banner .sticky {
+      
+        right: -37px;
+        font-size: 1.1rem;
+        bottom: 58px;
+        padding: 1px 6px;
+     
+    }
+    .banner .slick-prev {
+        top: 33px;
+    }
+    .banner .slick-next {
+        bottom: 37px;
+        right: 24px;
+    }
+    .links {
+        margin: 9px 60px;
+    }
+    .links ul {
+   
+        justify-content: center;
+     
+    }
+    .links ul li:first-child {
+     
+        padding: 11px 9px;
+    }
+    .links ul li:nth-child(2) {
+      
+        padding: 13px 27px;
+    }
+    .links ul li:nth-child(3) {
+     
+        padding: 15px 21px;
+    }
+    .links ul li:nth-child(4) {
+     
+        padding: 19px 36px;
+    }
+    .links ul li:last-child {
+      
+        padding: 22px 50px;
+    }
+    .links ul li {
+     
+        margin: 11px 0px;
+    }
+    .why_choose {
+     
+        margin: 0px 0px;
+    }
+    .why_choose h2 {
+    
+        font-size: 2.4rem;
+        margin: 23px 0px 0px 0px;
+        padding-top: 9px;
+     
+    }
+   .why_choose .options {
+    padding: 16px 0px;
+    flex-wrap: wrap;
+}
+.why_choose .options h4 {
+
+    font-size: 1.8rem;
+ 
+}
+.why_choose .options p {
+
+    font-size: 1.1rem;
+}
+.why_choose div {
+    width: 100%;
+    margin: 10px 0px;
+    padding: 0px 30px;
+}
+
+#students {
+    margin: 0px 0px;
+}
+.students_say h2 {
+  
+    font-size: 2rem;
+  
+    padding: 13px 0px 0px 0px;
+}
+.students_say p {
+
+    font-size: 1.4rem;
+  
+}
+.students_say .carousel-slide .item {
+    margin: -6px 0px;
+}
+.students_say .carousel-slide .item img {
+  
+    margin: 38px 0px 0px 38px;
+}
+.students_say .item .student_content h3 {
+
+    font-size: 1.6rem;
+ 
+}
+.students_say .item .student_content span {
+    font-size: 1.2rem;
+  
+}
+footer .office_contact ul li {
+  
+    position: relative;
+    top: 0;
+    left: 0;
+}
+footer .office_contact ul li img{
+    position: absolute;
+    left: -12px;
+    top: 5px;
+}
+footer .office_contact p {
+
+    font-size: 1.2rem;
+  
+}
+footer .quick_links ul li a {
+
+    font-size: 1.2rem;
+   
+}
+footer .subscribe h3 {
+    font-size: 1.2rem;
+  
+}
+footer .footer_bottom .rights p {
+    font-size: 1.2rem;
+ 
+}
+footer .subscribe input {
+ 
+    padding: 7px 11px;
+
+}
+footer .subscribe button {
+
+    font-size: 1.6rem;
+
+    padding: 6px 10px;
+ 
+}
+.quick_links {
+    margin: 33px 0px;
+}
+footer .subscribe {
+    margin: 8px 0px 0px 0px;
+}
+footer .office_contact p {
+   
+    margin-left: 31px;
+}
+.icons{
+    margin: 18px 0px;
+}
+#back-to-top {
+    right: 68px;
+    bottom: 0px;
+}
+}
